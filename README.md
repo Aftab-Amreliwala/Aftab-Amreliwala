@@ -20,11 +20,11 @@ Currently exploring: Generative AI • Machine Learning • NLP
 
 ## 🚀 Projects
 
-| Project | Tech | Period |
+| Project | Tech | Link |
 |---|---|---|
-| 🛍️ Clothing Rental & E-Commerce Web App | HTML, CSS, JS, Bootstrap, PHP, MySQL | Jan–Apr 2026 |
-| 🔧 Automobile Spare Parts Management System | MongoDB, Express.js, React, Node.js | Jan–Mar 2026 |
-| 📊 Google Search Data Analysis | Python, Pandas, NumPy, Matplotlib, Seaborn | Jan–Mar 2026 |
+| 🛍️ Clothing Rental & E-Commerce Web App | HTML, CSS, JS, PHP, MySQL | [Repo](https://github.com/Aftab-Amreliwala/Clothing-Rental-Ecommerce) |
+| 🔧 Automobile Spare Parts Management | MERN Stack | [Repo](https://github.com/Aftab-Amreliwala/Automobile-Spare-Parts-Management-System) |
+| 📊 Google Search Data Analysis | Python, Pandas | [Repo](https://github.com/Aftab-Amreliwala/Google-Search-Trends-India-Analysis) |
 
 ---
 
