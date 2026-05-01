@@ -28,11 +28,11 @@ Currently exploring: Generative AI • Machine Learning • NLP
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribution Activity
 
-![Aftab's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aftab-Amreliwala&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aftab-Amreliwala&layout=compact&theme=tokyonight&hide_border=true)
+- 🗓️ Actively contributing since April 2026
+- 📦 4 public repositories
+- 🔧 Primary languages:  Python, PHP, JavaScript, React
 
 ---
 
