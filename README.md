@@ -30,9 +30,9 @@ Currently exploring: Generative AI • Machine Learning • NLP
 
 ## 📊 GitHub Stats
 
-![Aftab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aftab-Amreliwala&show_icons=true&theme=tokyonight&hide_border=true)
+![Aftab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aftab-Amreliwala&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab-Amreliwala&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab-Amreliwala&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ---
 
