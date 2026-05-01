@@ -28,4 +28,12 @@ Currently exploring: Generative AI • Machine Learning • NLP
 
 ---
 
+## 📊 GitHub Stats
+
+![Aftab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aftab-Amreliwala&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab-Amreliwala&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 ## 📫 Open to Work — Full Stack & AI Developer roles
